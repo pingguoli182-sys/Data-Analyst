@@ -55,10 +55,10 @@ python -m streamlit run app.py
 
 ## 📸 项目截图
 
-![上传文档](Screen shots/data-analyst1.png)
-![智能分析](Screen shots/data-analyst2.png)
-![图表生成](Screen shots/data-analyst3.png)
-![数据源预览](Screen shots/data-analyst4.png)
+![上传文档](<Screen shots/data-analyst1.png>)
+![智能分析](<Screen shots/data-analyst2.png>)
+![图表生成](<Screen shots/data-analyst3.png>)
+![数据源预览](<Screen shots/data-analyst4.png>)
 
 ## 👩‍💻 作者
 

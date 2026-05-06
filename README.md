@@ -53,6 +53,13 @@ python -m streamlit run app.py
 4. 在左侧边栏调整图表类型和字段
 5. 查看交互式图表和聚合数据
 
+## 📸 项目截图
+
+![上传文档](Screen shots/data-analyst1.png)
+![智能分析](Screen shots/data-analyst2.png)
+![图表生成](Screen shots/data-analyst3.png)
+![数据源预览](Screen shots/data-analyst4.png)
+
 ## 👩‍💻 作者
 
 李佳 · [github.com/pingguoli182-sys](https://github.com/pingguoli182-sys)
